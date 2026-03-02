@@ -1,0 +1,8 @@
+/*
+ * NavArrowDown (iconoir-icons/NavArrowDown@0.0.11)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/navarrowdown.js"
+export { default } from "../js/navarrowdown.js"

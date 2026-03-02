@@ -1,0 +1,8 @@
+/*
+ * InstagramLogo (phosphor-icons/InstagramLogo@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/instagramlogo.js"
+export { default } from "../js/instagramlogo.js"

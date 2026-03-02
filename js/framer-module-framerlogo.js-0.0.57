@@ -1,0 +1,8 @@
+/*
+ * FramerLogo (phosphor-icons/FramerLogo@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/framerlogo.js"
+export { default } from "../js/framerlogo.js"

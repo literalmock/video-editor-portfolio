@@ -1,0 +1,8 @@
+/*
+ * XLogo (phosphor-icons/XLogo@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "../js/xlogo.js"
+export { default } from "../js/xlogo.js"
